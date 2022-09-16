@@ -1,4 +1,12 @@
 •  What is a gitignore file and what should it include for a Java project? 
+   Gitignore file is used to prevent unnecessary files from getting comitted. It helps to make push/pull simpler. 
+   It should include files like target, tmp file. 
+
 •  What does fast-forward in git mean? 
+   If no conflicts exist, then git will automatically point master to latest comitted feature branch.
+
 •  Why should you have different branches? 
+   Having different branches helps to isolate work from others and makes work smoother.
+
 •  In a project how many remote Git repositories do you usually have? 
+   In Git we can have any number of repositories.
